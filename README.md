@@ -48,7 +48,7 @@ I enjoy turning ideas into reality using modern web technologies, advanced anima
 ## 📫 Contact Me
 
 - 📧 Email: ag6443964@gmail.com  
-- 🐙 GitHub: https://github.com/Ak-dev-uix  
+- 🐙 GitHub: https://github.com/Akdevuix  
 
 ---
 
