@@ -47,10 +47,12 @@ I enjoy turning ideas into reality using modern web technologies, advanced anima
 
 ## 📫 Contact Me
 
-- 📧 Email: ag6443964@gmail.com  
-- 🐙 GitHub: https://github.com/Akdevuix  
+- 📧 Email: ag6443964@gmail.com
+- 🌐 Portfolio: https://akdevme.netlify.app
+- 🐙 GitHub: https://github.com/Akdevme  
 
 ---
 
-> Thanks for visiting my profile!  
+> Thanks for visiting my profile!
+> FrontEnd / BackEnd Dev {<!>}  
 > I specialize in frontend animations, UI/UX, and interactive web experiences, using backend only to support complete and functional applications 🚀
