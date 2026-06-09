@@ -51,7 +51,7 @@ I enjoy turning ideas into reality using modern web technologies, advanced anima
 - 🌐 Portfolio: https://akdevme.netlify.app
 - 🐙 GitHub: https://github.com/Akdevme  
 
----
+----
 
 > Thanks for visiting my profile!
 > FrontEnd / BackEnd Dev {<!>}  
