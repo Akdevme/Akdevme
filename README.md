@@ -31,24 +31,26 @@ I enjoy turning ideas into reality using modern web technologies, advanced anima
 
 ### Backend (Supporting Skills)
 - Node.js  
-- Express.js  
-- MongoDB  
+- MongoDB
 - REST APIs  
-- Email Automation (Nodemailer)  
 
 ### Tools & Platforms
 - VS Code  
 - Git & GitHub  
 - Netlify / Vercel  
 - Excalidraw (Flowcharts & Wireframes)  
-- Framer (UI Design & Prototyping)  
+- Framer (UI Design & Prototyping)
 
+### Github Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akdevme&theme=github-dark&border_radius=100&card_width=600)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akdevme&layout=compact&theme=github_dark&border_radius=50&card_width=300)]
 ---
 
 ## 📫 Contact Me
 
 - 📧 Email: ag6443964@gmail.com
 - 🌐 Portfolio: https://akdevme.netlify.app
+- 📸 Instagram: https://instagram.com/ak.dev_/
 - 🐙 GitHub: https://github.com/Akdevme  
 
 ----
