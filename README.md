@@ -43,7 +43,6 @@ I enjoy turning ideas into reality using modern web technologies, advanced anima
 
 ### Github Stats 
 ## ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akdevme&theme=github-dark&border_radius=100&card_width=600)
-# ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akdevme&layout=compact&theme=github_dark&border_radius=50&card_width=600)
 ---
 
 ## 📫 Contact Me
