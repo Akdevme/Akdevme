@@ -1,4 +1,4 @@
-# Ak.Dev (Akdevme) (Ak.Dev_)
+# Ak.Dev (Ak.Dev_) 
 # 👋 Hi, I'm a Frontend-Focused Developer
 
 I'm a frontend web developer who loves creating clean, interactive, and responsive web experiences.  
