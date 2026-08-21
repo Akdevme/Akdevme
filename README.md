@@ -41,8 +41,8 @@ I enjoy turning ideas into reality using modern web technologies, advanced anima
 - Excalidraw (Flowcharts & Wireframes)  
 - Framer (UI Design & Prototyping)
 
-### Github Stats 
-## ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akdevme&theme=github-dark&border_radius=100&card_width=600)
+### Contributions
+## ![GitSkins Heatmap](https://www.gitskins.com/api/section/heatmap?username=akdevme&theme=aurora&v=profile-preview-2&style=terminal&mode=dark)
 ---
 
 ## 📫 Contact Me
